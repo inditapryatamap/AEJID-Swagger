@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   version: "1.0.0"
   title: "The Meal DB API Documentation"
-  description: "Documentation for The Meal DB API"
+  description: "Please read the documentation for The Meal DB API before you using this API!"
 paths:
   /search:
     get:
